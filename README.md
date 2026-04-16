@@ -129,3 +129,4 @@ _Options dialog with import/export configuration per CAD format_
 
 _Home page with quick access to recent files_
 <img src="doc/screenshot_5.png"/>
+ 
